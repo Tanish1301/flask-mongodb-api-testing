@@ -1,5 +1,7 @@
 # flask-mongodb-api-testing
-This application provides REST API endpoints for CRUD operations on a User resource in mydatabase 
+# This application provides REST API endpoints for CRUD operations on a User resource in mydatabase 
+# [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 To Create users using POST in postman
 ![Users - POST](https://github.com/Tanish1301/flask-mongodb-api-testing/assets/86621944/663e50a6-d43d-45de-b83f-09dbc3c064ef)
